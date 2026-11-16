@@ -1,4 +1,4 @@
-💫 About Me:
+
 Hi 👋, I'm Ritik Kumar<br><br>🚀 Aspiring Full Stack Developer<br><br>I'm passionate about learning programming and building creative projects.<br><br>💻 My Skills<br>🌐 HTML<br>🎨 CSS<br>🟨 JavaScript<br>🐍 Python<br>🗄️ SQL<br><br>🌱 Currently Learning<br>🚀 Full Stack Web Development<br>🐍 Python Programming<br>🗃️ Database Management<br><br>🎯 My Goals<br>. Build real-world projects<br>. Improve my coding skills<br>. Become a professional developer<br><br>🤝 Connect With Me<br> GitHub: https://github.com/ritikverma7503<br><br>⭐ Thanks for visiting my profile!
 
 
